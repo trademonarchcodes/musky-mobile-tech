@@ -9,8 +9,9 @@ Open `index.html` in a browser. No build step or package installation is require
 - `index.html` — page content and structure
 - `css/style.css` — responsive visual system and animations
 - `js/main.js` — mobile navigation and reveal interactions
-- `assets/musky-logo.svg` — lightweight temporary black-and-gold brand mark
-- Hero imagery uses a remote technology photograph; replace it with approved store photography when available
+- `musky-logo.jpg` — business logo uploaded to the repository root
+- `store-phones.jpg` — store/product photo used in the homepage hero and video poster
+- `musky-store-video.mp4` — embedded store video
 
 ## Before launch
 - Confirm the official business address and opening hours, if they should appear.
