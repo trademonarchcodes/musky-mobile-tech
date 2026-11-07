@@ -24,6 +24,7 @@
   pointer-events:none;animation:logo-orbit 3.8s linear infinite;
 }
 .visual-stamp{isolation:isolate}
+.visual-stamp:after{animation-name:about-orbit}
 .visual-stamp:after{
   content:"";position:absolute;inset:-7px;border-radius:50%;
   border:1px dashed #f5d887;
