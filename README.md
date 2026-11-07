@@ -9,7 +9,8 @@ Open `index.html` in a browser. No build step or package installation is require
 - `index.html` — page content and structure
 - `css/style.css` — responsive visual system and animations
 - `js/main.js` — mobile navigation and reveal interactions
-- `assets/` — optimized brand logo and store product photo
+- `assets/musky-logo.svg` — lightweight temporary black-and-gold brand mark
+- Hero imagery uses a remote technology photograph; replace it with approved store photography when available
 
 ## Before launch
 - Confirm the official business address and opening hours, if they should appear.
